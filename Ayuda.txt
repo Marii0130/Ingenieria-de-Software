@@ -1,0 +1,20 @@
+Camino basico para curso:
+
+1) Situación uno
+- Cliente se inscribe y realiza el curso ok ya que cumple con la pre-condición
+-Recibe la cuota proxima a emitirse con el valor del curso como costo adicional
+-La abona ok
+2)Situacion dos
+- Cliente se inscribe y realiza el curso ok ya que cumple con la pre-condición
+-Recibe la cuota proxima a emitirse con el valor del curso como costo adicional
+-No abona a tiempo y se generan avisos de deuda
+
+3) Situación dos - parte 1
+
+- Luego de recibir la notificaión de deuda se generan interes de la cuota
+- Cliente abona fuera de termino pero conserva su perfil de socio
+
+4) Situación dos - parte 2
+
+- Luego de recibir la notificaión de deuda se generan interes de la cuota
+- Cliente no abona, puede tener uno o varios meses vencidos de la cuota y se da de baja como socio
